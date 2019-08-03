@@ -26,7 +26,7 @@ for i in items:
  print(i['quantity']+" "+i['item']+""+" %.3fKD"%float(price_item))
  total =total +price_item
 print("-------------------")
-print("Total: %.3f"%float(total))
+print("Total: %.3fKD"%float(total))
 
 
 
